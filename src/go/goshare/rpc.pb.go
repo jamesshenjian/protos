@@ -6,7 +6,7 @@ package goshare
 import (
 	fmt "fmt"
 	proto "github.com/golang/protobuf/proto"
-	spider "github.com/mineralres/protos/src/go/spider"
+	spider "github.com/jamesshenjian/protos/src/go/spider"
 	math "math"
 )
 

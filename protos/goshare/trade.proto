@@ -2,7 +2,7 @@ syntax = "proto3";
 package goshare;
 
 import "goshare/order.proto";
-option go_package = "github.com/mineralres/protos/src/go/goshare";
+option go_package = "github.com/jamesshenjian/protos/src/go/goshare";
 
 // 成交类型
 enum TradeType {

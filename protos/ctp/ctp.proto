@@ -1,7 +1,7 @@
 syntax = "proto3";
 package ctp;
 
-option go_package = "github.com/mineralres/protos/src/go/ctp";
+option go_package = "github.com/jamesshenjian/protos/src/go/ctp";
 
 message CThostFtdcDisseminationField {
   int32 SequenceSeries = 1;

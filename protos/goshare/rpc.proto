@@ -7,7 +7,7 @@ import "goshare/instrument.proto";
 import "spider/sse.proto";
 import "spider/xueqiu.proto";
 
-option go_package = "github.com/mineralres/protos/src/go/goshare";
+option go_package = "github.com/jamesshenjian/protos/src/go/goshare";
 
 
 // 批量获取

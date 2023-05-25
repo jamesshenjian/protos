@@ -3,7 +3,7 @@ package goshare;
 
 import "goshare/order.proto";
 
-option go_package = "github.com/mineralres/protos/src/go/goshare";
+option go_package = "github.com/jamesshenjian/protos/src/go/goshare";
 
 enum PositionSummationType {
   TOTAL     = 0;

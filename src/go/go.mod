@@ -1,4 +1,4 @@
-module github.com/mineralres/protos/src/go
+module github.com/jamesshenjian/protos/src/go
 
 go 1.13
 

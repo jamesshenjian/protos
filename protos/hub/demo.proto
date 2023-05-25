@@ -1,6 +1,6 @@
 syntax = "proto3";
 package goshare.hub;
-option go_package = "github.com/mineralres/protos/src/go/hub";
+option go_package = "github.com/jamesshenjian/protos/src/go/hub";
 
 import "goshare/instrument.proto";
 

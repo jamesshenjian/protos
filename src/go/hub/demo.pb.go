@@ -6,7 +6,7 @@ package hub
 import (
 	fmt "fmt"
 	proto "github.com/golang/protobuf/proto"
-	goshare "github.com/mineralres/protos/src/go/goshare"
+	goshare "github.com/jamesshenjian/protos/src/go/goshare"
 	math "math"
 )
 

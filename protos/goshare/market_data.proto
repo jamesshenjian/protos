@@ -3,7 +3,7 @@ package goshare;
 
 import "goshare/common.proto";
 
-option go_package = "github.com/mineralres/protos/src/go/goshare";
+option go_package = "github.com/jamesshenjian/protos/src/go/goshare";
 
 message OrderBook {
   double ask        = 1; /// 卖价
